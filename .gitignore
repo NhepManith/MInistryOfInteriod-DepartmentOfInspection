@@ -1,0 +1,29 @@
+# Node modules
+node_modules/
+client/node_modules/
+api/node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Environment variables
+.env
+client/.env
+api/.env
+
+# Build output
+dist/
+build/
+
+# System files
+.DS_Store
+
+# Vercel related files (if applicable)
+.vercel/
+
+# Temporary files
+*.tmp
+*.bak
+node_modules
