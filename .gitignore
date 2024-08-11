@@ -9,7 +9,6 @@ logs/
 npm-debug.log*
 
 # Environment variables
-.env
 client/.env
 api/.env
 
